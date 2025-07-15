@@ -131,7 +131,7 @@ function getProducts() {
         category: "Accessories",
         price: 999,
         stock: 12,
-        image: "images/bag.jpg",
+        image: "bag.jpg",
         description: "Trendy and spacious bag for everyday use.",
       },
       {
@@ -140,7 +140,7 @@ function getProducts() {
         category: "Fitness",
         price: 199,
         stock: 50,
-        image: "images/bottle.jpg",
+        image: "bottle.jpg",
         description: "Stainless steel, 1L capacity.",
       },
       {
@@ -149,7 +149,7 @@ function getProducts() {
         category: "Fitness",
         price: 499,
         stock: 20,
-        image: "images/dumbbell.jpg",
+        image: "dumbbell.jpg",
         description: "Durable dumbbell for strength training.",
       },
       {
@@ -158,7 +158,7 @@ function getProducts() {
         category: "Home",
         price: 1499,
         stock: 15,
-        image: "images/fan.jpg",
+        image: "fan.jpg",
         description: "High-speed ceiling fan for cool comfort.",
       },
       {
@@ -167,7 +167,7 @@ function getProducts() {
         category: "Accessories",
         price: 899,
         stock: 35,
-        image: "images/glasses.jpg",
+        image: "glasses.jpg",
         description: "UV-protected, stylish sunglasses.",
       },
       {
@@ -176,7 +176,7 @@ function getProducts() {
         category: "Electronics",
         price: 1299,
         stock: 15,
-        image: "images/headphones.jpg",
+        image: "headphones.jpg",
         description: "Noise-cancelling over-ear headphones.",
       },
       {
@@ -185,7 +185,7 @@ function getProducts() {
         category: "Electronics",
         price: 799,
         stock: 18,
-        image: "images/keyboard.jpg",
+        image: "keyboard.jpg",
         description: "Mechanical keyboard with backlight.",
       },
       {
@@ -194,7 +194,7 @@ function getProducts() {
         category: "Home",
         price: 499,
         stock: 18,
-        image: "images/lamp.jpg",
+        image: "lamp.jpg",
         description: "Adjustable LED desk lamp.",
       },
       {
@@ -203,7 +203,7 @@ function getProducts() {
         category: "Electronics",
         price: 399,
         stock: 25,
-        image: "images/mouse.jpg",
+        image: "mouse.jpg",
         description: "Smooth and responsive wireless mouse.",
       },
       {
@@ -212,7 +212,7 @@ function getProducts() {
         category: "Home",
         price: 149,
         stock: 40,
-        image: "images/mug.jpg",
+        image: "mug.jpg",
         description: "Ceramic mug, 350ml.",
       },
       {
@@ -221,7 +221,7 @@ function getProducts() {
         category: "Stationery",
         price: 99,
         stock: 100,
-        image: "images/note.jpg",
+        image: "note.jpg",
         description: "A5, 200 pages notebook.",
       },
       {
@@ -230,7 +230,7 @@ function getProducts() {
         category: "Home",
         price: 299,
         stock: 30,
-        image: "images/pillow.jpg",
+        image: "pillow.jpg",
         description: "Soft and comfortable pillow.",
       },
       {
@@ -239,7 +239,7 @@ function getProducts() {
         category: "Footwear",
         price: 1799,
         stock: 18,
-        image: "images/shoe.jpg",
+        image: "shoe.jpg",
         description: "Comfortable running shoes for daily workouts.",
       },
       {
@@ -248,7 +248,7 @@ function getProducts() {
         category: "Accessories",
         price: 2499,
         stock: 10,
-        image: "images/watch.jpg",
+        image: "watch.jpg",
         description: "Elegant analog watch with leather strap.",
       },
       {
@@ -257,7 +257,7 @@ function getProducts() {
         category: "Fitness",
         price: 399,
         stock: 30,
-        image: "images/yoga.jpg",
+        image: "yoga.jpg",
         description: "Non-slip, eco-friendly yoga mat.",
       },
     ];
